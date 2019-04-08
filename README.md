@@ -1,4 +1,4 @@
-# hashing-functions-swift-playgrounds
+# Hashing-Functions-Swift-Playgrounds
 
 Different people have different definitions for functions, for instance, computer scientists and programmers might call it a data structure mechanism that takes and input and performs operations, and (sometimes) returns a result. 
 
